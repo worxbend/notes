@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/testindex.png
+cover: broken-reference
 coverY: -27
 layout:
   cover:

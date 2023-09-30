@@ -11,8 +11,8 @@
   * [Page 9](page-1/page-9.md)
   * [Page 8](page-1/page-8.md)
 
-## Group 1
+## 🧲 Introduction
 
-* [Page 10](group-1/page-10.md)
-* [Page 11](group-1/page-11.md)
-* [Page 12](group-1/page-12.md)
+* [Page 10](introduction/page-10.md)
+* [Page 11](introduction/page-11.md)
+* [Page 12](introduction/page-12.md)

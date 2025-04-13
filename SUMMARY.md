@@ -11,8 +11,16 @@
   * [Page 9](page-1/page-9.md)
   * [Page 8](page-1/page-8.md)
 
-## 🧲 Introduction
+## 🖥️ Introduction
 
 * [Page 10](introduction/page-10.md)
 * [Page 11](introduction/page-11.md)
 * [Page 12](introduction/page-12.md)
+
+## ☕ Scala
+
+* [Page 13](scala/page-13.md)
+
+## k8s
+
+* [Page 14](k8s/page-14.md)

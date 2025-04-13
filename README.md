@@ -1,4 +1,5 @@
 ---
+icon: '1'
 cover: broken-reference
 coverY: -27
 layout:
@@ -19,10 +20,7 @@ layout:
 
 # Page
 
-
-
 ```mermaid
 graph TD
   Mermaid --> Diagram
 ```
-
